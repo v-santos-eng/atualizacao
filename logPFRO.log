@@ -1,0 +1,14 @@
+05/03/2025 16:06:45 - INFO: Iniciando verificação de arquivos
+05/03/2025 16:06:45 - INFO: Verificando arquivos no diretório C:\Users\v.santos\OneDrive - Interroll Management SA\Desktop\projeto python\folder teste
+05/03/2025 16:06:45 - ERROR: Arquivos não correspondentes encontrados: ['Santos, Vinicius____5666666____BoQ_Grouped_21012025 114303____21.01.2025_114342_viniciao - Copy.csv', 'Meneghetti, Nathan____21173779____BoQ_Grouped_28102024 152039____28.10.2024_152115.csv']
+
+05/03/2025 16:06:45 - INFO: Verificando arquivos no diretório C:\Users\v.santos\OneDrive - Interroll Management SA\Desktop\projeto python\outro folder
+05/03/2025 16:06:45 - ERROR: Arquivos não correspondentes encontrados: ['Urban, Wolf____21156247____BoQ_Grouped_28102024 152811____28.10.2024_152842.csv', 'Urban, Wolf____5664383____BoQ_Grouped_01072024 161031____01.07.2024_161112.csv', 'Meneghetti, Nathan____21173779____BoQ_Grouped_28102024 152039____28.10.2024_152115.csv']
+
+05/03/2025 16:12:58 - INFO: Iniciando verificação de arquivos
+05/03/2025 16:12:58 - INFO: Verificando arquivos no diretório C:\Users\v.santos\OneDrive - Interroll Management SA\Desktop\projeto python\folder teste
+05/03/2025 16:12:58 - ERROR: Arquivos não correspondentes encontrados: ['Meneghetti, Nathan____21173779____BoQ_Grouped_28102024 152039____28.10.2024_152115.csv', 'Santos, Vinicius____5666666____BoQ_Grouped_21012025 114303____21.01.2025_114342_viniciao - Copy.csv']
+
+05/03/2025 16:13:20 - INFO: Verificando arquivos no diretório C:\Users\v.santos\OneDrive - Interroll Management SA\Desktop\projeto python\outro folder
+05/03/2025 16:13:20 - ERROR: Arquivos não correspondentes encontrados: ['Urban, Wolf____5664383____BoQ_Grouped_01072024 161031____01.07.2024_161112.csv', 'Meneghetti, Nathan____21173779____BoQ_Grouped_28102024 152039____28.10.2024_152115.csv', 'Urban, Wolf____21156247____BoQ_Grouped_28102024 152811____28.10.2024_152842.csv']
+
